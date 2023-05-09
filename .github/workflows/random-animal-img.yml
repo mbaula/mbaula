@@ -23,8 +23,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --global user.email "markbaula.1@gmail.com"
-          git config --global user.name "mbaula"
+          git config --global user.email "animalimagegenerator.bymark@gmail.com"
+          git config --global user.name "newanimalimage"
           git pull
           git commit -a -m "Update README with new animal picture" || true
           echo "Changes committed successfully"
