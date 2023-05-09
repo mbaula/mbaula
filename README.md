@@ -1,7 +1,11 @@
-# Hi there, I'm Mark! ![hello pikachu](https://media.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif)
-
+# Hi there, I'm Mark! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/)
+
+I'm currently a student who loves to delve into all things software, and using it to come up with unique and innovative solutions! I have previous experience with Software Development, QA automation, Full-stack development, Business Intelligence and Machine Learning! and In my free time I enjoy going on walks, reading, training Muay Thai, and watching the Chicago Bulls lose ... 😥.
+
+### 🎮 I'm currently working on creating an open-world adventure game using Unity! 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
