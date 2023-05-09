@@ -10,6 +10,7 @@ I'm currently a student who loves to delve into all things software, and using i
 # While you're here, [Generate a new animal picture!](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+submit+new+issue+without+changing+the+title+and+a+new+animal+picture+will+be+generated)
 
 ![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animals%20Generated&style=flat)
+If you're interested in how this works, checkout this [link!](https://github.com/mbaula/mbaula/blob/d23150cf009093f23563bf08e708897dbe5a2905/animal-image.md)
 
 <!--
 **mbaula/mbaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
