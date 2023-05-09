@@ -11,7 +11,7 @@ I'm currently a student who loves to delve into all things software, and using i
 
 ![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animals%20Generated&style=flat)
 
-If you're interested in how this works, checkout this [link!](https://github.com/mbaula/mbaula/blob/d23150cf009093f23563bf08e708897dbe5a2905/animal-image.md)
+If you're interested in how this works, checkout this [link!](https://github.com/mbaula/mbaula/blob/dd0ce07538ac99a4489d07829be172c431e3fb7d/animal-image.md)
 
 <!--
 **mbaula/mbaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
