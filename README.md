@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Mark! 👋
+
+While you're here, [Generate new animal picture](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+submit+new+issue+without+changing+the+title+and+a+new+animal+picture+will+be+generated)
 
 <!--
 **mbaula/mbaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://images.unsplash.com/photo-1589648751789-c8ecb7a88bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODM2NjIxMTg&ixlib=rb-4.0.3&q=80&w=1080">
