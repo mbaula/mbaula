@@ -1,0 +1,36 @@
+name: Random Animal Picture
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'newAnimalImage|')
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 10
+
+      - name: Update README
+        run: |
+          animal_image_url=$(curl -s "https://api.unsplash.com/photos/random?query=animals&orientation=landscape" -H "Authorization: Client-ID ${{ secrets.UNSPLASH_CLIENT_ID }}" | jq -r '.urls.regular')
+          sed -i '0,/<img/{/<img/d;}' README.md
+          echo "<img src=\"$animal_image_url\">" >> README.md
+          
+      - name: Commit changes
+        run: |
+          git config --global user.email "markbaula.1@gmail.com"
+          git config --global user.name "mbaula"
+          git pull
+          git commit -a -m "Update README with new animal picture" || true
+          echo "Changes committed successfully"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: main
