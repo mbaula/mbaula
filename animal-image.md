@@ -1,4 +1,4 @@
-I created this "animal image generator" because I wanted to update my github profile readme and at the same time I wanted to learn more about Github Action Workflows and Bash scripting. Why not kill 2 birds with 1 stone? :)
+I created this "animal image generator" because I wanted to update my github profile readme and I wanted to learn more about Github Action Workflows and Bash scripting. Why not ~~generate 2 birds with one stone?~~ do both at the same time :)
 
 The way it works is that every single time an issue is created with the prefix title "newAnimalImage|" the github workflow would run. The first step is to checkout the repo in order to access the README.md file.
 
