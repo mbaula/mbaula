@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animals%20Generated&style=flat)
