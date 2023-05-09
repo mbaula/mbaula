@@ -1,6 +1,11 @@
-### Hi there, I'm Mark! 👋
+# Hi there, I'm Mark! ![hello pikachu](https://media.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif){:height="32px" width="32px"}
 
-![Animals Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animals%20Generated&style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/)
+
+
+
+![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animals%20Generated&style=flat)
 
 
 While you're here, [Generate new animal picture](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+submit+new+issue+without+changing+the+title+and+a+new+animal+picture+will+be+generated)
