@@ -1,5 +1,7 @@
 ### Hi there, I'm Mark! 👋
 
+[![Animals Generated](https://img.shields.io/github/issues-closed/mbaula/mbaula/newAnimalImage%7C?color=green&label=Animals%20Generated)](https://github.com/mbaula/mbaula/issues?q=is%3Aissue+is%3Aclosed+label%3AnewAnimalImage%7C)
+
 While you're here, [Generate new animal picture](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+submit+new+issue+without+changing+the+title+and+a+new+animal+picture+will+be+generated)
 
 <!--
