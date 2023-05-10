@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://images.unsplash.com/photo-1504173010664-32509aeebb62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODM2ODExOTk&ixlib=rb-4.0.3&q=80&w=1080">
+<img src="https://images.unsplash.com/photo-1578326457399-3b34dbbf23b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODM2ODI3ODM&ixlib=rb-4.0.3&q=80&w=1080">
