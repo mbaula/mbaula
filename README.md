@@ -1,6 +1,7 @@
 # Hi there, I'm Mark! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/)
+![](https://komarev.com/ghpvc/?username=mbaula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
