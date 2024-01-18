@@ -1,12 +1,18 @@
-# Hi there, I'm Mark! 
+# Hi there, I'm Mark! 👋
+
+I'm currently a student who loves to delve into all things software, and using it to come up with unique and innovative solutions! I have previous experience with Software Development, QA automation, Full-stack development, Business Intelligence and Machine Learning! 
+
+In my free time I enjoy:
+- going on walks 🚶
+- reading 📚 (favs of 2024 so far include)
+  - Sapiens: A Brief History of Humankind by Yuval Noah Harari
+- being active 🏋️! I enjoy going to the gym, rock climbing and attending Muay Thai classes
+- watching the Chicago Bulls and Arsenal lose ... 😥.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/)
 ![](https://komarev.com/ghpvc/?username=mbaula&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm currently a student who loves to delve into all things software, and using it to come up with unique and innovative solutions! I have previous experience with Software Development, QA automation, Full-stack development, Business Intelligence and Machine Learning! In my free time I enjoy going on walks, reading, training Muay Thai, and watching the Chicago Bulls lose ... 😥.
-🎮 I'm currently working on creating an open-world adventure game using Unity! 
 
 # While you're here, ➡️ [Generate a new animal picture!](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+"submit+new+issue"+without+changing+the+title+and+a+new+animal+picture+will+be+generated+in+the+README.md.+It+should+take+about+20+seconds) ⬅️
 
