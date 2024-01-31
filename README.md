@@ -1,4 +1,4 @@
-# Hi there, I'm Mark! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/) ![](https://komarev.com/ghpvc/?username=mbaula&color=blueviolet)
+# Hi there, I'm Mark! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-b17/)](https://www.linkedin.com/in/mark-b17/) 
 
 I'm currently a student who loves to delve into all things software, and using it to come up with unique and innovative solutions! I have previous experience with Software Development, QA automation, Full-stack development, Business Intelligence and Machine Learning! 
 
