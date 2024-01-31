@@ -1,13 +1,15 @@
 name: Random Animal Picture
 
 on:
+  schedule:
+    - cron: '0 0 * * *' # Trigger Workflow daily
   issues:
     types: [opened]
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'newAnimalImage|')
+    if: github.event_name == 'schedule' || startsWith(github.event.issue.title, 'newAnimalImage|')
     
     steps:
       - name: Checkout repo
