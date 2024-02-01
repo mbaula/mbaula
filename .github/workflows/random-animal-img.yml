@@ -37,10 +37,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: main
           
+      - name: Label issue
+        if: github.event_name == 'issues' #does not run on scheduled generation, only issues
+        uses: actions/github-script@v5
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ github.event.issue.number }},
+              labels: ['closed', 'auto-closed']
+            })
+
       - name: Close issue
+        if: github.event_name == 'issues' #does not run on scheduled generation, only issues
         uses: peter-evans/close-issue@v1
         with:
           issue-number: ${{ github.event.issue.number }}
           comment: 'This issue has been automatically closed because a new animal picture has been generated.'
-          labels: 'closed,auto-closed'
           token: ${{ secrets.GITHUB_TOKEN }}
