@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU5MDc0NTN8&ixlib=rb-4.0.3&q=80&w=1080">
+<img src="https://images.unsplash.com/photo-1574949717565-ed7a7e95e32d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU5OTM4MDh8&ixlib=rb-4.0.3&q=80&w=1080">
