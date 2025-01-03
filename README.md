@@ -4,8 +4,7 @@ I'm currently a student who loves to delve into all things software, and using i
 
 In my free time I enjoy:
 - going on walks 🚶
-- reading 📚 (favs of 2024 so far include)
-  - Sapiens: A Brief History of Humankind by Yuval Noah Harari
+- reading 📚
 - being active 🏋️! I enjoy going to the gym, rock climbing and attending Muay Thai classes
 - watching the Chicago Bulls and Arsenal lose ... 😥.
 
