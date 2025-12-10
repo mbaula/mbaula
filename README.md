@@ -8,23 +8,17 @@ In my free time I enjoy:
 - being active 🏋️! I enjoy going to the gym, rock climbing and attending Muay Thai classes
 - watching the Chicago Bulls and Arsenal lose ... 😥.
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+## GitHub Stats
 
-  | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/0-profile-details.svg) |
-  |-----|
+| ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/0-profile-details.svg) |
+|-----|
 
-  | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/3-stats.svg) | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/4-productive-time.svg) |
-  |-----|-----|-----|
-</details>
-<details>
+| ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/3-stats.svg) | ![](https://raw.githubusercontent.com/mbaula/mbaula/main/profile-summary-card-output/darcula/4-productive-time.svg) |
+|-----|-----|-----|
+
   
-  # While you're here, ➡️ [Generate a new animal picture!](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+"submit+new+issue"+without+changing+the+title+and+a+new+animal+picture+will+be+generated+in+the+README.md.+It+should+take+about+20+seconds) ⬅️
-  
-  ![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animal%20Images%20Generated&style=flat)
-  
-  If you're interested in how this works, checkout this [link!](https://github.com/mbaula/mbaula/blob/dd0ce07538ac99a4489d07829be172c431e3fb7d/animal-image.md)
-</details>
+## [Generate a new animal picture here!](https://github.com/mbaula/mbaula/issues/new?assignees=&labels=newAnimalImage%7C&title=newAnimalImage%7C&template=new-animal-image.md&body=Just+click+"submit+new+issue"+without+changing+the+title+and+a+new+animal+picture+will+be+generated+in+the+README.md.+It+should+take+about+20+seconds)
+![New Animal Images Generated](https://img.shields.io/github/issues-closed-raw/mbaula/mbaula?color=green&label=Animal%20Images%20Generated&style=flat)
 <!--
 **mbaula/mbaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
