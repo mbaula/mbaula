@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://images.unsplash.com/photo-1719578489423-f11d5251cc8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ5MjMwMTZ8&ixlib=rb-4.1.0&q=80&w=1080">
+<img src="https://images.unsplash.com/photo-1508859459823-38ea91d8f937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUwMTA0NTV8&ixlib=rb-4.1.0&q=80&w=1080">
